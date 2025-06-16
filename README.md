@@ -5,7 +5,18 @@ data sets, results and auxiliary material used in publications by Georgios Ouzou
 
 ## 2025
 
-- G. K. Ouzounis, "[Differential Attribute Profile Tensors from the Alpha-Tree Data Structure](TPAMI-2025.zip)". Transactions on Pattern Analysis and Machine Intelligence, submitted, 2025.
+- G. K. Ouzounis, "Differential Attribute Profile Tensors from the Alpha-Tree Data Structure". Transactions on Pattern Analysis and Machine Intelligence, submitted, 2025.
+  -  [fig1](fig1.zip)
+  -  [fig2](fig2.zip)
+  -  [fig3](fig3.zip)
+  -  [fig4](fig4.zip)
+  -  [fig5](fig5.zip)
+  -  [fig6](fig6.zip)
+  -  [fig7](fig7.zip)
+  -  [fig8](fig8.zip)
+  -  [fig9](fig9.zip)
+  -  [fig10](fig10.zip)
+  -  [fig11](fig11.zip)
 
 ## 2019
 
