@@ -11,7 +11,7 @@ data sets, results and auxiliary material used in publications by Georgios Ouzou
 
 - G. K. Ouzounis and A. A. Vekinis, "A Comparison of the Atlas of Human Settlements against the Global Human Settlement Layer", Proceedings of Big Data From Space 25, Sep.29 - Oct. 3, Riga, Latvia
 
-  | [EasyChair Preprint (draft)](./preprint_draft_49748.pdf) |
+  | [EasyChair Preprint (draft)](./preprint_draft_49748.pdf) | [poster]() |
 
   
 ## 2019
